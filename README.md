@@ -37,7 +37,7 @@ NexusURL is a modern URL shortener with built-in QR code generation capabilities
 
 ### Installation
 ```bash
-git clone https://github.com/mo-sahil/nexusurl.git
+git clone https://github.com/sujal/nexusurl.git
 cd nexusurl
 mvn spring-boot:run
 ```
@@ -56,5 +56,5 @@ Set environment variables:
 MIT License
 
 ## Contact
-Sahil - [mo-sahil.me](http://mo-sahil.me) - sahilbmu@gmail.com
+Sahil - [sujal.me](http://mo-sujal.me) - sy1908412@gmail.com
 
