@@ -15,7 +15,7 @@
 
 # Grafana Monitoring Dashboard
 
-![Grafana Dashboard](images/grafana.png)
+<img width="1913" height="1002" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/0ae0344f-e2c3-4eef-997c-88b1a35bbd32" />
 
 ---
 
