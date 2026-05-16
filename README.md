@@ -1,13 +1,23 @@
 # NexusURL – Futuristic URL Shortener & Analytics Platform
 
 # Website Interface
-![Home Page](images/screenshot-728.png)
 
-![Analytics](images/screenshot-729.png)
+## Home Page
 
-![Prometheus](images/prometheus-dashboard.png)
+![QR Code Generation](images/qr-dashboard.png)
 
-![Grafana](images/grafana.png)
+## Analytics Dashboard
+
+![NexusURL Analytics Dashboard](images/analytics.png)
+
+# Prometheus Monitoring
+
+![Prometheus Dashboard](images/prometheus.png)
+
+# Grafana Monitoring Dashboard
+
+![Grafana Dashboard](images/grafana.png)
+
 ---
 
 # Overview
@@ -133,20 +143,20 @@ This enables real-time infrastructure monitoring and analytics visualization.
 
 # Installation
 
-```bash
+bash
 git clone https://github.com/sujal/nexusurl.git
 cd nexusurl
 mvn spring-boot:run
-```
+
 
 ---
 
 # Configuration
 
-```env
+env
 MONGO_URI=your_mongodb_connection_string
 SERVER_PORT=8080
-```
+
 
 ---
 
@@ -187,4 +197,4 @@ SERVER_PORT=8080
 
 **Sujal Yadav**
 📧 [sy1908412@gmail.com](mailto:sy1908412@gmail.com)
-🌐 [http://sujal.me](http://sujal.me)
+🌐 [http://sujal.me](http://sujal.me) 
