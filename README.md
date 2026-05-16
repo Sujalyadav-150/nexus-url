@@ -4,7 +4,7 @@
 
 ## Home Page
 
-![NexusURL Main Interface](images/home.png)
+![QR Code Generation](images/qr-dashboard.png)
 
 ## Analytics Dashboard
 
