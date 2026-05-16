@@ -4,7 +4,7 @@
 
 ## Home Page
 
-![QR Code Generation](images/qr-dashboard.png)
+![QR Code Generation](<img width="1904" height="943" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/7ee2388e-957d-43c8-a23a-f22e3d2e26cf" />)
 
 ## Analytics Dashboard
 
