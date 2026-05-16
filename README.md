@@ -8,7 +8,7 @@
 
 ## Analytics Dashboard
 
-![NexusURL Analytics Dashboard](images/analytics.png)
+<img width="1920" height="1080" alt="Screenshot (729)" src="https://github.com/user-attachments/assets/09beb388-ef7a-4339-9ff5-e1850563e22e" />
 
 # Prometheus Monitoring
 
