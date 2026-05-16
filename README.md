@@ -4,7 +4,7 @@
 
 ## Home Page
 
-![NexusURL Main Interface](sandbox:/mnt/data/Screenshot%20\(728\).png)
+![NexusURL Main Interface]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (728).png")
 
 ## Analytics Dashboard
 
