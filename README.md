@@ -19,322 +19,221 @@
 
 ---
 
+# 📌 Project Overview
 
-📌 Project Overview
 NexusURL is a modern full-stack URL shortening and analytics platform engineered for speed, scalability, and real-time observability.
+
 The platform enables users to instantly shorten long URLs, generate downloadable QR codes, and monitor click engagement through an interactive analytics dashboard.
+
 To ensure production-level monitoring and performance tracking, the application integrates Prometheus, Grafana, and Node Exporter for real-time infrastructure visualization and backend observability.
+
 The project demonstrates expertise in:
 
+- Backend Development
+- REST API Engineering
+- Database Integration
+- Monitoring & Observability
+- UI/UX Design
+- DevOps Fundamentals
+- Real-Time Analytics
 
-Backend Development
+---
 
+# ✨ Core Features
 
-REST API Engineering
+- 🚀 High-speed URL shortening and fast redirection
+- 🔗 Dynamic QR code generation and download support
+- 📊 Interactive analytics dashboard with engagement tracking
+- 📱 Fully responsive cyberpunk-inspired user interface
+- ⚡ Real-time application monitoring and metrics collection
+- 📈 Infrastructure visualization using Grafana dashboards
+- 🔍 Prometheus integration for backend observability
+- 🛡️ Secure configuration using environment variables
+- 🧠 Optimized MongoDB integration for scalable data handling
 
+---
 
-Database Integration
+# 🏠 Home Page & QR Code Generation
 
+The futuristic landing page provides a seamless and interactive user experience.
 
-Monitoring & Observability
+Users can:
 
+- Enter and shorten long URLs instantly
+- Generate downloadable QR codes dynamically
+- Copy shortened links with a single click
+- Access analytics and tracking dashboards
+- Use the application seamlessly across desktop and mobile devices
 
-UI/UX Design
+The frontend is designed with modern cyberpunk aesthetics, neon-inspired UI elements, and responsive layouts for enhanced usability.
 
+---
 
-DevOps Fundamentals
+# 📊 Analytics Dashboard
 
+The analytics dashboard provides detailed insights into URL engagement and performance metrics.
 
-Real-Time Analytics
+Dashboard features include:
 
+- Original and shortened URL mapping
+- Click tracking and visitor analytics
+- URL creation timestamps
+- Engagement statistics and usage metrics
+- Activity and expiration monitoring
 
+This helps analyze user interaction and monitor link performance effectively.
 
-✨ Core Features
+---
 
+# 📈 Prometheus Monitoring
 
-🚀 High-speed URL shortening and redirection
+Prometheus is integrated for real-time backend and infrastructure monitoring.
 
+It collects metrics such as:
 
-🔗 Dynamic QR code generation and download support
+- CPU utilization
+- Memory consumption
+- Network traffic
+- JVM and application metrics
+- System performance statistics
 
+This improves backend observability and application monitoring efficiency.
 
-📊 Interactive analytics dashboard with engagement tracking
+---
 
+# 🖥️ Grafana Dashboard Visualization
 
-📱 Fully responsive cyberpunk-inspired user interface
+Grafana dashboards provide real-time infrastructure visualization and monitoring.
 
+The dashboards display:
 
-⚡ Real-time application monitoring and metrics collection
+- CPU and RAM usage
+- Disk utilization
+- Network activity
+- Application uptime
+- System health metrics
+- Infrastructure performance tracking
 
+These visual dashboards help monitor system performance and simplify debugging.
 
-📈 Infrastructure visualization using Grafana dashboards
+---
 
+# 🛠️ Technology Stack
 
-🔍 Prometheus integration for backend observability
+## 🔹 Backend
 
+- Java 17
+- Spring Boot
+- Spring Data MongoDB
+- MongoDB
+- REST APIs
+- Google ZXing (QR Code Generation)
 
-🛡️ Secure configuration using environment variables
+---
 
+## 🔹 Frontend
 
-🧠 Optimized MongoDB integration for scalable data handling
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Responsive Cyberpunk UI Design
 
+---
 
+## 🔹 Monitoring & DevOps
 
-🏠 Home Page & QR Code Generation
-The futuristic landing page provides a seamless user experience for:
+- Prometheus
+- Grafana
+- Node Exporter
 
+---
 
-Entering and shortening long URLs instantly
+# ⚙️ Key Functionalities
 
+- Generate and manage shortened URLs
+- Perform fast backend redirection handling
+- Generate QR codes dynamically
+- Track clicks and engagement analytics
+- Monitor backend and infrastructure metrics
+- Visualize real-time system performance
+- Improve observability using Prometheus and Grafana
 
-Generating downloadable QR codes
+---
 
+# 🚀 Installation & Setup
 
-Copying shortened links with a single click
+## Clone Repository
 
+```bash
+git clone https://github.com/sujal/nexusurl.git
+cd nexusurl
+```
 
-Accessing analytics and tracking dashboards
+---
 
+## Run Application
 
-Viewing responsive UI across desktop and mobile devices
-
-
-The frontend is designed with neon cyberpunk aesthetics using modern responsive layouts and interactive UI components.
-
-📊 Analytics Dashboard
-The analytics dashboard provides detailed insights into URL engagement and performance metrics, including:
-
-
-Original and shortened URL mapping
-
-
-Click tracking and visitor insights
-
-
-URL creation timestamps
-
-
-Engagement statistics and usage metrics
-
-
-Expiration and activity monitoring
-
-
-This helps analyze user behavior and monitor link performance effectively.
-
-📈 Prometheus Monitoring
-Prometheus is integrated to collect and monitor real-time backend and infrastructure metrics such as:
-
-
-CPU utilization
-
-
-Memory consumption
-
-
-Network traffic
-
-
-JVM/application metrics
-
-
-System performance data
-
-
-This enables efficient observability and backend monitoring.
-
-🖥️ Grafana Dashboard Visualization
-Grafana dashboards provide advanced visual monitoring for:
-
-
-CPU and RAM usage
-
-
-Disk utilization
-
-
-Network activity
-
-
-Application uptime
-
-
-System health metrics
-
-
-Infrastructure performance tracking
-
-
-The dashboards deliver real-time visualization for improved monitoring and debugging.
-
-🛠️ Technology Stack
-🔹 Backend
-
-
-Java 17
-
-
-Spring Boot
-
-
-Spring Data MongoDB
-
-
-MongoDB
-
-
-REST APIs
-
-
-Google ZXing (QR Code Generation)
-
-
-🔹 Frontend
-
-
-HTML5
-
-
-CSS3
-
-
-JavaScript
-
-
-Font Awesome
-
-
-Responsive Cyberpunk UI Design
-
-
-🔹 Monitoring & DevOps
-
-
-Prometheus
-
-
-Grafana
-
-
-Node Exporter
-
-
-
-⚙️ Key Functionalities
-
-
-Generate and manage shortened URLs
-
-
-Perform fast backend redirection handling
-
-
-Generate QR codes dynamically
-
-
-Track clicks and engagement analytics
-
-
-Monitor infrastructure and backend metrics
-
-
-Visualize real-time system performance
-
-
-Improve observability using Prometheus & Grafana
-
-
-
-🚀 Installation & Setup
-Clone Repository
-git clone https://github.com/sujal/nexusurl.gitcd nexusurl
-Run Application
+```bash
 mvn spring-boot:run
+```
 
-⚙️ Environment Configuration
-Create an .env file:
-MONGO_URI=your_mongodb_connection_stringSERVER_PORT=8080
+---
 
-🔐 Security Practices
+# ⚙️ Environment Configuration
 
+Create a `.env` file and configure the following variables:
 
-Environment variables used for sensitive configurations
+```env
+MONGO_URI=your_mongodb_connection_string
+SERVER_PORT=8080
+```
 
+---
 
-No hardcoded credentials
+# 🔐 Security Practices
 
+- Used environment variables for sensitive configurations
+- Avoided hardcoded credentials
+- Implemented secure MongoDB connection handling
+- Recommended regular credential rotation
+- Applied backend configuration isolation for secure deployments
 
-Secure MongoDB connection handling
+---
 
+# 📄 Resume-Friendly Project Description
 
-Recommended credential rotation practices
+## NexusURL – URL Shortener & Analytics Platform
 
+- Developed a scalable full-stack URL shortening platform using Spring Boot and MongoDB
+- Implemented REST APIs for fast URL generation, redirection, and analytics tracking
+- Built a responsive cyberpunk-inspired frontend using HTML, CSS, and JavaScript
+- Integrated QR code generation functionality using Google ZXing
+- Configured Prometheus, Grafana, and Node Exporter for real-time infrastructure monitoring
+- Designed analytics dashboards to track engagement metrics and application performance
+- Applied DevOps and observability concepts for backend monitoring and visualization
 
-Backend configuration isolation for safer deployments
+---
 
+# 💡 Project Highlights
 
+- Full Stack Development
+- REST API Engineering
+- MongoDB Integration
+- Monitoring & Observability
+- Grafana Dashboarding
+- Prometheus Metrics
+- Real-Time Analytics
+- Responsive UI/UX
+- QR Code Integration
+- DevOps Fundamentals
 
-📄 Resume-Friendly Project Description
-NexusURL – URL Shortener & Analytics Platform
+---
 
+# 👨‍💻 Developer
 
-Developed a scalable full-stack URL shortening platform using Spring Boot and MongoDB
+## Sujal Yadav
 
-
-Implemented REST APIs for fast URL generation, redirection, and analytics tracking
-
-
-Built a responsive cyberpunk-inspired frontend using HTML, CSS, and JavaScript
-
-
-Integrated QR code generation functionality using Google ZXing
-
-
-Configured Prometheus, Grafana, and Node Exporter for real-time infrastructure monitoring
-
-
-Designed analytics dashboards to track engagement metrics and application performance
-
-
-Applied DevOps and observability concepts for backend monitoring and visualization
-
-
-
-💡 Project Highlights
-
-
-Full Stack Development
-
-
-REST API Engineering
-
-
-MongoDB Integration
-
-
-Monitoring & Observability
-
-
-Grafana Dashboarding
-
-
-Prometheus Metrics
-
-
-Real-Time Analytics
-
-
-Responsive UI/UX
-
-
-QR Code Integration
-
-
-DevOps Fundamentals
-
-
-
-👨‍💻 Developer
-Sujal Yadav
 📧 Email: sy1908412@gmail.com
-🌐 Portfolio: http://sujal.me yeh pura content lining me ana chahiya kyu nhia rh ahai
+
+🌐 Portfolio: http://sujal.me
