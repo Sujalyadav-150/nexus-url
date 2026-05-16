@@ -7,8 +7,7 @@
 <img width="1904" height="943" alt="Screenshot (728)" src="https://github.com/user-attachments/assets/7ee2388e-957d-43c8-a23a-f22e3d2e26cf" />
 
 ## Analytics Dashboard
-
-<img width="1920" height="1080" alt="Screenshot (729)" src="https://github.com/user-attachments/assets/09beb388-ef7a-4339-9ff5-e1850563e22e" />
+<img width="1908" height="943" alt="Screenshot (729)" src="https://github.com/user-attachments/assets/9ae6f560-b614-42b6-8d2c-8fe4379a62ef" />
 
 # Prometheus Monitoring
 
