@@ -11,7 +11,7 @@
 
 # Prometheus Monitoring
 
-![Prometheus Dashboard](images/prometheus.png)
+<img width="1920" height="912" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/f18f3e52-39a6-4980-9999-350e4a4b3fa6" />
 
 # Grafana Monitoring Dashboard
 
