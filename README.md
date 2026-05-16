@@ -40,8 +40,6 @@ NexusURL is a modern URL shortener and analytics platform built using Spring Boo
 
 # Home Page & QR Code Generation
 
-![QR Code Generation](images/Screenshot%20\(728\).png)
-
 The home page allows users to:
 
 * Enter long URLs
@@ -55,8 +53,6 @@ The UI is designed with a futuristic cyberpunk theme using neon colors and respo
 ---
 
 # Analytics Dashboard
-
-![Analytics Dashboard](images/Screenshot%20\(729\).png)
 
 The analytics dashboard displays:
 
@@ -72,8 +68,6 @@ This helps monitor user interaction and link performance efficiently.
 
 # Prometheus Monitoring
 
-![Prometheus Monitoring](images/Screenshot%202024-02-15%20143928.png)
-
 Prometheus is integrated to:
 
 * Collect real-time application metrics
@@ -86,8 +80,6 @@ It provides backend observability and monitoring support.
 ---
 
 # Grafana Dashboard
-
-![Grafana Dashboard](images/6add1b5f-89e9-498d-8f4c-ef411d5723be.png)
 
 Grafana dashboards visualize:
 
