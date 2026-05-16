@@ -4,21 +4,19 @@
 
 ## Home Page
 
-![NexusURL Main Interface]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (728).png")
+![NexusURL Main Interface](images/home.png)
 
 ## Analytics Dashboard
 
-![NexusURL Analytics Dashboard](sandbox:/mnt/data/Screenshot%20\(729\).png)
+![NexusURL Analytics Dashboard](images/analytics.png)
 
 # Prometheus Monitoring
 
-![Prometheus Dashboard](sandbox:/mnt/data/36ead22f-18cd-4f15-ab30-11469a8dda38.png)
+![Prometheus Dashboard](images/prometheus.png)
 
 # Grafana Monitoring Dashboard
 
-![Grafana Dashboard](sandbox:/mnt/data/6add1b5f-89e9-498d-8f4c-ef411d5723be.png)
-
-![NexusURL Home Page](Screenshot%20\(728\).png)
+![Grafana Dashboard](images/grafana.png)
 
 ## Overview
 
