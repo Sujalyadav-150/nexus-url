@@ -18,7 +18,9 @@
 
 ![Grafana Dashboard](images/grafana.png)
 
-## Overview
+---
+
+# Overview
 
 NexusURL is a modern URL shortener and analytics platform built using Spring Boot and MongoDB. It provides fast URL shortening, QR code generation, click tracking, and real-time monitoring through Prometheus and Grafana, wrapped in a futuristic cyberpunk-inspired UI.
 
@@ -39,7 +41,7 @@ NexusURL is a modern URL shortener and analytics platform built using Spring Boo
 
 # Home Page & QR Code Generation
 
-![QR Code Generation](Screenshot%20\(728\).png)
+![QR Code Generation](images/Screenshot%20\(728\).png)
 
 The home page allows users to:
 
@@ -55,7 +57,7 @@ The UI is designed with a futuristic cyberpunk theme using neon colors and respo
 
 # Analytics Dashboard
 
-![Analytics Dashboard](Screenshot%20\(729\).png)
+![Analytics Dashboard](images/Screenshot%20\(729\).png)
 
 The analytics dashboard displays:
 
@@ -71,7 +73,7 @@ This helps monitor user interaction and link performance efficiently.
 
 # Prometheus Monitoring
 
-![Prometheus Monitoring](36ead22f-18cd-4f15-ab30-11469a8dda38.png)
+![Prometheus Monitoring](images/Screenshot%202024-02-15%20143928.png)
 
 Prometheus is integrated to:
 
@@ -86,7 +88,7 @@ It provides backend observability and monitoring support.
 
 # Grafana Dashboard
 
-![Grafana Dashboard](6add1b5f-89e9-498d-8f4c-ef411d5723be.png)
+![Grafana Dashboard](images/6add1b5f-89e9-498d-8f4c-ef411d5723be.png)
 
 Grafana dashboards visualize:
 
