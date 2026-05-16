@@ -1,22 +1,21 @@
 # NexusURL – Futuristic URL Shortener & Analytics Platform
 
 # Website Interface
-
 ## Home Page
 
-![QR Code Generation](images/qr-dashboard.png)
+![Home Page](images/screenshot-728.png)
 
 ## Analytics Dashboard
 
-![NexusURL Analytics Dashboard](images/analytics.png)
+![Analytics](images/screenshot-729.png)
 
-# Prometheus Monitoring
+## Prometheus Dashboard
 
-![Prometheus Dashboard](images/prometheus.png)
+![Prometheus](images/prometheus-dashboard.png)
 
-# Grafana Monitoring Dashboard
+## Grafana Dashboard
 
-![Grafana Dashboard](images/grafana.png)
+![Grafana](images/grafana.png)
 
 ---
 
