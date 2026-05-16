@@ -19,6 +19,7 @@
 
 ---
 
+
 📌 Project Overview
 NexusURL is a modern full-stack URL shortening and analytics platform engineered for speed, scalability, and real-time observability.
 The platform enables users to instantly shorten long URLs, generate downloadable QR codes, and monitor click engagement through an interactive analytics dashboard.
@@ -336,4 +337,4 @@ DevOps Fundamentals
 👨‍💻 Developer
 Sujal Yadav
 📧 Email: sy1908412@gmail.com
-🌐 Portfolio: http://sujal.me
+🌐 Portfolio: http://sujal.me yeh pura content lining me ana chahiya kyu nhia rh ahai
