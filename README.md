@@ -201,20 +201,6 @@ SERVER_PORT=8080
 
 ---
 
-# 📄 Resume-Friendly Project Description
-
-## NexusURL – URL Shortener & Analytics Platform
-
-- Developed a scalable full-stack URL shortening platform using Spring Boot and MongoDB
-- Implemented REST APIs for fast URL generation, redirection, and analytics tracking
-- Built a responsive cyberpunk-inspired frontend using HTML, CSS, and JavaScript
-- Integrated QR code generation functionality using Google ZXing
-- Configured Prometheus, Grafana, and Node Exporter for real-time infrastructure monitoring
-- Designed analytics dashboards to track engagement metrics and application performance
-- Applied DevOps and observability concepts for backend monitoring and visualization
-
----
-
 # 💡 Project Highlights
 
 - Full Stack Development
